@@ -56,7 +56,7 @@ ros2 run b3rb_ros_line_follower runner
 ```
 
 ## Video Demonstration
-[Watch the project in action]([https://your-video-link.com](https://youtu.be/IiahHKT5NE4))  
+[Watch the project in action](https://youtu.be/IiahHKT5NE4)  
 
 ## Contributors
 - **Aashraye Saraf** – AI Model Development & ROS 2 Integration
